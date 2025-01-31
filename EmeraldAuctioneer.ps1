@@ -49,9 +49,9 @@ function Get-AvailableImages {
 $itemFiles = Get-ChildItem -Path $itemFolder -Filter "*.png"   # List of Item images
 
 $form = New-Object System.Windows.Forms.Form
-$form.Text = "The Great Pokemon Auction"  # Updated title
+$form.Text = "The Great Pokemon Auction"
 $form.Size = New-Object System.Drawing.Size(1400, 686)
-$form.BackColor = [System.Drawing.Color]::LightBlue  # Set form background color to pale blue
+$form.BackColor = [System.Drawing.Color]::LightBlue
 
 $ForSaleImagePath = Join-Path -Path $scriptDirectory -ChildPath "ForSale.png"
 
@@ -81,16 +81,16 @@ $labelFileName1 = New-Object System.Windows.Forms.Label
 $labelFileName1.Location = New-Object System.Drawing.Point(420, 320)  # Below the first Pokemon
 $labelFileName1.Width = 200
 $labelFileName1.Height = 100
-$labelFileName1.Font = New-Object System.Drawing.Font("Pixelon", 24)  # Increase text size
-$labelFileName1.TextAlign = [System.Drawing.ContentAlignment]::MiddleCenter  # Center the text
+$labelFileName1.Font = New-Object System.Drawing.Font("Pixelon", 24)
+$labelFileName1.TextAlign = [System.Drawing.ContentAlignment]::MiddleCenter
 $form.Controls.Add($labelFileName1)
 
 $labelFileName2 = New-Object System.Windows.Forms.Label
 $labelFileName2.Location = New-Object System.Drawing.Point(670, 320)  # Below the second Pokemon
 $labelFileName2.Width = 200
 $labelFileName2.Height = 100
-$labelFileName2.Font = New-Object System.Drawing.Font("Pixelon", 24)  # Increase text size
-$labelFileName2.TextAlign = [System.Drawing.ContentAlignment]::MiddleCenter  # Center the text
+$labelFileName2.Font = New-Object System.Drawing.Font("Pixelon", 24)
+$labelFileName2.TextAlign = [System.Drawing.ContentAlignment]::MiddleCenter
 $form.Controls.Add($labelFileName2)
 
 $TwoForOneImagePath = Join-Path -Path $scriptDirectory -ChildPath "TwoForOne.png"
@@ -106,15 +106,15 @@ $form.Controls.Add($twoForOnePictureBox)
 
 # Create PictureBoxes for the item images (will be added or removed dynamically)
 $itemPictureBox1 = New-Object System.Windows.Forms.PictureBox
-$itemPictureBox1.Size = New-Object System.Drawing.Size(100, 100)  # Set item size to 100x100 pixels
-$itemPictureBox1.BackColor = [System.Drawing.Color]::LightBlue  # Set background color to pale blue
+$itemPictureBox1.Size = New-Object System.Drawing.Size(100, 100)
+$itemPictureBox1.BackColor = [System.Drawing.Color]::LightBlue
 $itemPictureBox1.SizeMode = [System.Windows.Forms.PictureBoxSizeMode]::AutoSize  # Ensure proper sizing of the item
 $itemPictureBox1.Visible = $false  # Start off as invisible
 $form.Controls.Add($itemPictureBox1)
 
 $itemPictureBox2 = New-Object System.Windows.Forms.PictureBox
-$itemPictureBox2.Size = New-Object System.Drawing.Size(100, 100)  # Set item size to 100x100 pixels
-$itemPictureBox2.BackColor = [System.Drawing.Color]::LightBlue  # Set background color to pale blue
+$itemPictureBox2.Size = New-Object System.Drawing.Size(100, 100)
+$itemPictureBox2.BackColor = [System.Drawing.Color]::LightBlue
 $itemPictureBox2.SizeMode = [System.Windows.Forms.PictureBoxSizeMode]::AutoSize  # Ensure proper sizing of the item
 $itemPictureBox2.Visible = $false  # Start off as invisible
 $form.Controls.Add($itemPictureBox2)
