@@ -30,13 +30,13 @@ A PowerShell script for automating Pokemon auction drafts.
 ## PowerShell Usage
 Once installed, it’s easy to run the script in just two clicks:
 1. Open the `Emerald Auctioneer` folder.
-2. Right click `emerald-auctioneer.ps1` and select `Run with PowerShell`.
+2. Right click `EmeraldAuctioneer.ps1` and select `Run with PowerShell`.
 
 Alternatively, you can run the script directly through PowerShell:
 1. Copy Emerald Auctioneer’s location to your clipboard by right clicking the `Emerald Auctioneer` folder and select `Copy as path`.
 2. Open Windows PowerShell.
 3. type `cd ` and then paste the copied path. Press Enter.
-4. Type `.\emerald-auctioneer.ps1` into PowerShell and press Enter.
+4. Type `.\EmeraldAuctioneer.ps1` into PowerShell and press Enter.
 
 ## Sample Auction Rules
 Use these rules for reference when developing your own with your play group:
