@@ -17,7 +17,7 @@ A PowerShell script for automating Pokemon auction drafts.
 - [PowerShell Usage](#powershell-usage)
 - [Sample Auction Rules](#sample-auction-rules)
 - [Sample Auction Procedure](#sample-auction-procedure)
-- [Pokémon Emerald Speedchoice (Draft Edition)](#pokemon-emerald-speedchoice-draft-edition)
+- [Pokémon Emerald EX Speedchoice (Auction Edition)](#pokemon-emerald-ex-speedchoice-auction-edition)
 
 <!-- CONTENT -->
 
@@ -54,7 +54,7 @@ Use this procedure for reference when developing your own with your play group:
 5. After a sale completes, press the `Next Pokémon` button to begin the next sale.
 6. Once all Pokémon have been sold, the auction is finished and the race begins.
 
-## Pokemon Emerald Speedchoice (Draft Edition)
-While Emerald Auctioneer's pool can be customized to support any game, the default pool is aligned with the available Pokémon and items in [FranklyNathan's Draft Edition](https://github.com/FranklyNathan/Draft-Auction-Race) of Pokémon Emerald Speedchoice. It's a game made specifically for multiplayer draft races, including full access to all drafted Pokémon and items in the starting PC, expedited gameplaym and many quality of life improvements.
+## Pokemon Emerald EX Speedchoice (Auction Edition)
+While Emerald Auctioneer's pool can be customized to support any game, the default pool is aligned with the available Pokémon and items in [FranklyNathan's Auction Edition](https://github.com/FranklyNathan/Pokemon-EX-Speedchoice-Auction-Edition) of Pokémon Emerald Speedchoice. It's a game made specifically for multiplayer draft races, including full access to all drafted Pokémon and items in the starting PC, expedited gameplay, and many quality of life improvements.
 
 <!-- END CONTENT -->
