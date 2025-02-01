@@ -13,7 +13,7 @@ A PowerShell script for automating Pokemon auction drafts.
 <!-- TOC -->
 ## Contents
 
-- [Instillation](#instillation)
+- [Installation](#installation)
 - [PowerShell Usage](#powershell-usage)
 - [Sample Auction Rules](#sample-auction-rules)
 - [Sample Auction Procedure](#sample-auction-procedure)
@@ -21,7 +21,7 @@ A PowerShell script for automating Pokemon auction drafts.
 
 <!-- CONTENT -->
 
-## Instillation
+## Installation
 1. At the top of [this repository’s main page](https://github.com/FranklyNathan/Emerald-Auctioneer), click the green `<> Code` button at the top right of the screen.
 2. In the dropdown menu, select `Download ZIP`.
 3. The entire repository will be downloaded as a `.zip` file to your computer.
