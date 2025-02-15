@@ -1,0 +1,1583 @@
+Abra
+Type:
+   Psychic
+Abilities:
+   Synchronize
+   Inner Focus
+Evolution:
+   Kadabra (16)
+   Alakazam (40)
+Key Moves:
+   Confusion (16)
+   Psybeam (21)
+   Thunderbolt (TM)
+   Psychic (38/TM)
+   Calm Mind (41)
+
+Applin
+Type:
+   Grass
+   Grass/Dragon (30)
+Abilities:
+   Gluttony
+   Ripen
+Evolution:
+   Flapple (30)
+   Appletun (+Rotom)
+Key Moves:
+   Protect (16)
+   Recover (24*)
+   Giga Drain (TM)
+   Grav Apple (32*)
+   Fly (HM*)
+
+Archen
+Type:
+   Rock/Flying
+Abilities:
+   Defeatist
+Evolution:
+   Archeops (37)
+Key Moves:
+   Pluck (15)
+   Ancient Power (18)
+   Acrobatics (28)
+   Fly (HM)
+
+Aron
+Type:
+   Steel/Rock
+Abilities:
+   Sturdy
+   Rock Head
+Evolution:
+   Lairon (32)
+   Aggron (42)
+Key Moves:
+   Protect (16)
+   Iron Head (22)
+   Rock Slide (25)
+
+Azurill
+Type:
+   Fairy/Normal
+   Fairy/Water (14)
+Abilities:
+   Thick Fat
+   Huge Power(!)
+Evolution:
+   Marill (14)
+   Azumarill (18)
+Key Moves:
+   Aqua Tail (20)
+   Play Rough (23)
+
+Bagon
+Type:
+   Dragon
+   Dragon/Flying (50)
+Abilities:
+   Rock Head*
+   Intimidate (55)
+Evolution:
+   Shelgon (30)
+   Salamence (50)
+Key Moves:
+   Dragon Breath (13)
+   Dragon Claw (29)
+   Protect (30)
+
+Beldum
+Type:
+   Steel/Psychic
+Abilities:
+   Clear Body
+Evolution:
+   Metang (20)
+   Metagross (45)
+Key Moves:
+   Bullet Punch (29)
+   Zen Headbutt (32)
+   Meteor Mash (44)
+
+Budew
+Type:
+   Grass/Poison
+Abilities:
+   Natural Cure
+   Poison Point
+Evolution:
+   Roselia (20)
+   Roserade (Shiny St.)
+Key Moves:
+   Growth (4)
+   Giga Drain (29)
+   Sludge Bomb (TM)
+
+Buizel
+Type:
+   Water
+Abilities:
+   Swift Swim
+Evolution:
+   Floatzel (26)
+Key Moves:
+   Water Gun (15)
+   Aqua Jet (24)
+
+Cacnea
+Type:
+   Grass
+   Grass/Dark (32)
+Abilities:
+   Sand Veil
+   Water Absorb(!)
+Evolution:
+   Cacturne (32)
+Key Moves:
+   Leech Seed (10)
+   Needle Arm (16)
+   Spiky Shield (32)
+
+Carvanha
+Type:
+   Water/Dark
+Abilities:
+   Rough Skin
+Evolution:
+   Sharpedo (30)
+Key Moves:
+   Aqua Jet (11)
+   Ice Fang (25)
+   Crunch (40)
+
+Chespin
+Type:
+   Grass
+   Grass/Fighting (36)
+Abilities:
+   Overgrow
+   Bulletproof
+Evolution:
+   Quilladin (16)
+   Chesnaught (36)
+Key Moves:
+  Leech Seed (15)
+  Needle Arm (16)
+  Bulk Up (TM)
+  Spiky Shield (36)
+  Hammer Arm (MR)
+
+Chimchar
+Type:
+   Fire
+   Fire/Fighting (14)
+Abilities:
+   Blaze
+Evolution:
+   Monferno (14)
+   Infernape (36)
+Key Moves:
+   Mach Punch (16)
+   Flame Wheel (19)
+   Close Combat (36)
+
+Chinchou
+Type:
+   Water/Electric
+Abilities:
+   Volt Absorb(!)
+   Illuminate
+Evolution:
+   Lanturn (27)
+Key Moves:
+   Bubble Beam (20)
+   Spark (23)
+   Surf (HM)
+   Thunderbolt (TM)
+   Ice Beam (TM)
+   Discharge (37)
+
+Combee
+Type:
+   Bug/Flying
+Abilities:
+   Honey Gather
+Evolution:
+   Vespiquen (21)
+Key Moves:
+   Gust (1)
+   Bug Bite (13)
+   Power Gem (25)
+   
+Corphish
+Type:
+   Water
+   Water/Dark (30)
+Abilities:
+   Hyper Cutter
+   Shell Armor
+Evolution:
+   Crawdaunt (30)
+Key Moves:
+   Knock Off (23)
+   Razor Shell (31)
+   Swords Dance (37)
+
+Cosmog
+Type:
+   Psychic
+   Psychic/Steel (55)
+   Psychic/Ghost (55)
+Abilities:
+   Full Metal Body
+   Shadow Shield
+Evolution:
+   Cosmoem (43)
+   Solgaleo (53)
+   Lunala (53)
+Key Moves:
+   Calm Mind (TM)
+   Sunsteel Strike (53)
+   Moongeist Beam (53)
+
+Cubone
+Type:
+   Ground
+   Ghost/Fire (Evo.)
+Abilities:
+   Rock Head
+   Lighting Rod
+   Cursed Body (Evo.)
+Evolution:
+   Marowak (28)
+   Marowak (Dusk St.)
+Key Moves:
+   Bonemerang (21)
+   Shadow Bone (27*)
+   Overheat (TM*)
+
+Cutiefly
+Type:
+   Bug/Fairy
+Abilities:
+   Honey Gather(!)
+   Shield Dust
+Evolution:
+   Ribombee (25)
+Key Moves:
+   Draining Kiss (16)
+   Bug Buzz (28)
+   Calm Mind (TM)
+
+Darumaka
+Type:
+   Ice
+Abilities:
+   Hustle*
+   Zen Mode (Evo.)
+Evolution:
+   Darmanitan (Ice St.)
+Key Moves:
+   Ice Punch (28)
+   Overheat (TM)
+   Brick Break (TM)
+
+Deerling
+Type:
+   Normal/Grass
+Abilities:
+   Chlorophyll
+   Sap Sipper
+Evolution:
+   Sawsbuck (34)
+Key Moves:
+   Double Kick (10)
+   Horn Leech (34)
+
+Dewpider
+Type:
+   Water/Bug
+Abilities:
+   Water Bubble
+Evolution:
+   Araquanid (22)
+Key Moves:
+   Spider Web (8)
+   Bubble Beam (16)
+   Leech Life (33)
+
+Diglett
+Type:
+   Ground/Steel
+Abilities:
+   Sand Veil
+   Arena Trap
+Evolution:
+   Dugtrio (26)
+Key Moves:
+   Bulldoze (18)
+   Earthquake (47)
+
+Drifloon
+Type:
+   Ghost/Flying
+Abilities:
+   Aftermath
+   Unburden
+Evolution:
+   Drifblim (28)
+Key Moves:
+   Gust (8)
+   Fly (HM)
+   Thunderbolt (TM)
+   Shadow Ball (40)
+
+Drilbur
+Type:
+   Ground
+   Ground/Steel (31)
+Abilities:
+   Sand Rush
+   Sand Force
+Evolution:
+   Excadrill (31)
+Key Moves:
+   Dig (19)
+   Hone Claws (22)
+   Rock Slide (29)
+   Earthquake (36)
+
+Eevee
+Type:
+    Various
+Abilities:
+   Various
+Evolution:
+   Vaporeon (Water St.)
+   Jolteon (Thndr St.)
+   Flareon (Fire St.)
+   Espeon (Sun St.)
+   Umbreon (Moon St.)
+   Leafeon (Leaf St.*)
+   Glaceon (Ice St.)
+   Sylveon (29*)
+Key Moves:
+   Calm Mind (TM)
+   Moonblast (37*)
+
+Electrike
+Type:
+   Electric
+Abilities:
+   Static
+   Lightning Rod
+Evolution:
+   Manectric (26)
+Key Moves:
+   Thunder Fang (19)
+   Discharge (30)
+   Overheat (TM)
+
+Elekid
+Type:
+   Electric
+Abilities:
+   Static
+   Vital Spirit
+Evolution:
+   Electabuzz (30)
+   Electivire (40)
+Key Moves:
+   Thunder Punch (29)
+   Discharge (36)
+   Bulk Up (TM)
+
+Exeggcute
+Type:
+   Grass/Psychic
+   Grass/Dragon (Evo)
+Abilities:
+   Chlorophyll
+   Harvest (Evo.*)
+Evolution:
+   Exeggutor (Leaf St.)
+   Exeggutor (Sun St.)
+Key Moves:
+   Bullet Seed (TM)
+   Leech Seed (11)
+   Psychic (TM)
+   Giga Drain (TM)
+   Calm Mind (TM)
+
+Farfetch'd
+Type:
+   Fighting
+Abilities:
+   Steadfast
+Evolution:
+   Sirfetch'd (30)
+Key Moves:
+   Rock Smash (15)
+   Detect (25)
+   Knock Off (30)
+
+Fennekin
+Type:
+   Fire
+   Fire/Psychic (16)
+Abilities:
+   Blaze
+   Magician
+Evolution:
+   Braixen (16)
+   Delphox (36)
+Key Moves:
+   Flame Charge (14)
+   Psybeam (18)
+   FlameThrower (45/TM)
+
+Flabébé
+Type:
+   Fairy
+Abilities:
+   Flower Veil
+Evolution:
+   Floette (19)
+   Florges (Shiny St.)
+Key Moves:
+   Fairy Wind (6)
+   Wish (20)
+   Calm Mind (TM)
+   Moonblast (MR)
+
+Fletchling
+Type:
+   Normal/Flying
+   Fire/Flying (17)
+Abilities:
+   Flame Body
+Evolution:
+   Fletchinder (17)
+   Talonflame (35)
+Key Moves:
+   Peck (10)
+   Flame Charge (39)
+   Flare Blitz (MR)
+
+Froakie
+Type:
+   Water
+   Water/Dark (36)
+Abilities:
+   Torrent
+   Protean
+Evolution:
+   Frogadier (16)
+   Greninja (36)
+Key Moves:
+   Water Pulse (14)
+   Fling (28)
+   Night Slash (MR)
+
+Gastly
+Type:
+   Ghost/Poison
+Abilities:
+   Levitate
+   Cursed Body (40)
+Evolution:
+   Haunter (25)
+   Gengar (40)
+Key Moves:
+   Shadow Punch (25)
+   Shadow Ball (33)
+   Sludge Bomb (TM)
+   Thunderbolt (TM)
+
+Geodude
+Type:
+   Rock/Ground
+Abilities:
+   Rock Head
+   Sturdy
+Evolution:
+   Graveler (25)
+   Golem (40)
+Key Moves:
+   Bulldoze (22)
+   Earthquake (40)
+
+Gligar
+Type:
+   Ground/Flying
+Abilities:
+   Hyper Cutter
+   Sand Veil
+   Poison Heal(!) (Evo.)
+Evolution:
+   Gliscor (K. Rock)
+Key Moves:
+   Knock Off (10)
+   Acrobatics (22)
+   U-turn (30)
+
+Goomy
+Type:
+   Dragon
+   Dragon/Steel (Evo.)
+Abilities:
+   Sap Sipper
+   Hydration
+Evolution:
+   Sliggoo (M. Coat)
+   Goodra (50*)
+Key Moves:
+   Protect (9)
+   Water Pulse (25*)
+
+Growlithe
+Type:
+   Fire/Rock
+Abilities:
+   Intimidate
+   Flash Fire
+Evolution:
+   Arcanine (Fire St.)
+Key Moves:
+   Rock Tomb (TM)
+   Fire Fang (24)
+   Play Rough (MR)
+
+Grubbin
+Type:
+   Bug
+   Bug/Electric (20)
+Abilities:
+   Swarm
+   Battery (Evo.)
+   Levitate (Evo.)
+Evolution:
+   Charjabug (20)
+   Vikavolt (Thndr St.)
+Key Moves:
+   Bug Bite (13)
+   Thunderbolt (33)
+
+Honedge
+Type:
+   Steel/Ghost
+Abilities:
+   No Guard
+Evolution:
+   Doublade (35)
+   Aegislash (Dusk St.)
+Key Moves:
+   Shadow Sneak (20)
+   Iron Head (42)
+   King's Shield (42)
+   Swords Dance (MR)
+
+Horsea
+Type:
+   Water
+   Water/Dragon (Evo.)
+Abilities:
+   Swift Swim
+   Sniper
+Evolution:
+   Seadra (32)
+   Kingdra (D. Scale)
+Key Moves:
+   Water Gun (13)
+   Surf (HM)
+   Ice Beam (TM)
+   Dragon Pulse (45)
+
+Jangmo-o
+Type:
+   Dragon
+   Dragon/Fighting (35)
+Abilities:
+   Soundproof
+   Bulletproof
+Evolution:
+   Hakamo-o (35)
+   Kommo-o (45)
+Key Moves:
+   Protect (13)
+   Dragon Tail (17)
+   Sky Uppercut (35)
+
+Larvitar
+Type:
+   Rock/Ground
+   Rock/Dark (55)
+Abilities:
+   Guts
+   Shed Skin (30)
+   Sand Stream (55)
+Evolution:
+   Pupitar (30)
+   Tyranitar (55)
+Key Moves:
+   Rock Slide (19)
+   Dark Pulse (34)
+   Earthquake (54)
+   Ice Fang (MR)
+
+Litten
+Type:
+   Fire
+   Fire/Dark (34)
+Abilities:
+   Blaze
+Evolution:
+   Torracat (17)
+   Incineroar (34)
+Key Moves:
+   Fire Fang (14)
+   Double Kick (16)
+   Darkest Lariat (34)
+   Flare Blitz (55)
+
+Litwick
+Type:
+   Ghost/Fire
+Abilities:
+   Flame Body
+   Flash Fire
+Evolution:
+   Lampent (41)
+   Chandelure (Dusk St.)
+Key Moves:
+   Will-o-Wisp (16)
+   Flame Burst (20)
+   Hex (28)
+   Overheat (TM)
+
+Magikarp
+Type:
+   Water
+   Water/Flying (20)
+Abilities:
+   Swift Swim*
+   Intimidate (20)
+Evolution:
+   Gyarados (20)
+Key Moves:
+   Ice Fang (27)
+   Aqua Tail (30)
+   Aerial Ace (TM)
+   Crunch (39)
+
+Magnemite
+Type:
+   Electric/Steel
+Abilities:
+   Magnet Pull
+   Sturdy
+Analytic
+Evolution:
+   Magneton (30)
+   Magnezone (Thndr St.)
+Key Moves:
+   Mirror Shot (23)
+   Flash Cannon (33)
+   Thunderbolt (TM)
+   Discharge (43)
+
+Makuhita
+Type:
+   Fighting
+Abilities:
+   Thick Fat
+   Guts(!)
+Evolution:
+   Hariyama (24)
+Key Moves:
+   Knock Off (19)
+   Vital Throw (22)
+   Close Combat (46)
+
+Mareep
+Type:
+   Electric
+Abilities:
+   Static
+Evolution:
+   Flaaffy (15)
+   Ampharos (30)
+Key Moves:
+   Thunder Punch (30)
+   Discharge (40)
+   Fire Punch (MR)
+   Dragon Pulse (MR)
+
+Mawile
+Type:
+   Steel/Fairy
+Abilities:
+   Hyper Cutter
+   Intimidate
+Key Moves:
+   Fairy Wind (1)
+   Iron Head (45)
+   Play Rough (49)
+
+Mime Jr
+Type:
+   Psychic/Fairy
+   Psychic/Ice (16)
+Abilities:
+   Vital Spirit*
+   Screen Cleaner
+   Tangled Feet
+Evolution:
+   Mr. Mime (16*)
+   Mr. Rime (42)
+Key Moves:
+   Encore (18)
+   Calm Mind (TM)
+   Freeze Dry (44)
+   Slack Off (MR)
+
+Minccino
+Type:
+   Normal
+Abilities:
+   Cute Charm
+   Technician(!)
+Evolution:
+   Cinccino (Shiny St.)
+Key Moves:
+   Encore (15)
+   Tail Slap (25)
+   Charm (27)
+
+Minior
+Type:
+   Rock/Flying
+Abilities:
+   Shields Down
+Key Moves:
+   Defense Curl (3)
+   Rollout (8)
+   Ancient Power (17)
+   Stealth Rock (24)
+
+Morelull
+Type:
+   Grass/Fairy
+Abilities:
+   Illuminate
+   Effect Spore
+Evolution:
+   Shiinotic (24)
+Key Moves:
+   Moonlight (11)
+   Giga Drain (31)
+   Strength Sap (35)
+   Spore (40)
+
+Mudbray
+Type:
+   Ground
+Abilities:
+   Stamina(!)
+   Inner Focus
+Evolution:
+   Mudsdale (30)
+Key Moves:
+   Double Kick (15)
+   High Horsepower (24)
+   Earthquake (47)
+
+Munchlax
+Type:
+   Normal
+Abilities:
+   Pickup
+   Thick Fat
+Evolution:
+   Snorlax (30*)
+Key Moves:
+   Body Slam (25)
+   Rest (TM)
+   Belly Drum (44)
+
+Murkrow
+Type:
+   Dark/Flying
+Abilities:
+   Insomnia
+   Super Luck
+Evolution:
+   Honchkrow (Dusk St.)
+Key Moves:
+   Wing Attack (15)
+   Assurance (25)
+
+Nickit
+Type:
+   Dark
+Abilities:
+   Run Away
+   Unnerve
+Evolution:
+   Thievul (18)
+Key Moves:
+   Thief (15)
+   Sucker Punch (28)
+
+Nincada
+Type:
+   Bug/Ground
+   Bug/Flying (20)
+   Bug/Ghost (20)
+Abilities:
+   Speed Boost (20)
+   Wonder Guard (20)  
+Evolution:
+   Ninjask (20)
+   Shedinja (20)
+Key Moves:
+   Fury Cutter (20)   
+   Shadow Ball (33)
+
+Noibat
+Type:
+   Flying/Dragon
+Abilities:
+   Telepathy
+   Infiltrator
+Evolution:
+   Noivern (Rzr. Fang)
+Key Moves:
+   Wing Attack (16)
+   Air Cutter (23)
+   Roost (27)
+   Tailwind (35)
+   Hurricane (MR)
+
+Numel
+Type:
+   Fire/Ground
+Abilities:
+   Magma Armor
+   Solid Rock
+Evolution:
+   Camerupt (33)
+Key Moves:
+   Magnitude (12)
+   Lava Plume (22)
+   Overheat (TM)
+   Rock Slide (33)
+
+Pancham
+Type:
+   Fighting
+   Fighting/Dark (32)
+Abilities:
+   Mold Breaker
+   Iron Fist
+Evolution:
+   Pangoro (32)
+Key Moves:
+   Bulk Up (TM)
+   Crunch (42)
+   Sky Uppercut (52)
+   
+Paras
+Type:
+   Bug/Grass
+Abilities:
+   Effect Spore
+   Dry Skin
+Evolution:
+   Parasect (24)
+Key Moves:
+   Absorb (11)
+   Spore (22)
+   Giga Drain (TM)
+
+Pichu
+Type:
+   Electric
+   Electric/Psychic (Evo.)
+Abilities:
+   Static
+   Surge Surfer (Evo.)
+Evolution:
+   Pikachu (20)
+   Raichu (Thndr St.)
+   Raichu (Sun St.)
+Key Moves:
+   Nasty Plot (13)
+   Thunderbolt (TM)
+   Psychic (TM/MR)
+   Surf (HM)
+
+Pidgey
+Type:
+   Normal/Flying
+Abilities:
+   Keen Eye
+   Tangled Feet
+Evolution:
+   Pidgeotto (18)
+   Pidgeot (36)
+Key Moves:
+   Gust (9)
+   Hurricane (MR)
+
+Pikipek
+Type:
+   Normal/Flying
+Abilities:
+   Keen Eye
+   Skill Link
+Evolution:
+   Trumbeak (14)
+   Toucannon (28)
+Key Moves:
+   Pluck (15)
+   Beak Blast (28)
+
+Poliwag
+Type:
+   Water
+   Water/Fighting (Evo.)
+Abilities:
+   Water Absorb
+   Damp
+   Drizzle*(!)
+Evolution:
+   Poliwhirl (25)
+   Poliwrath (Water St.)
+   Politoed (K. Rock)
+Key Moves:
+   Water Gun (5)
+   Rain Dance (18)
+   Dynamic Punch (32)   
+
+Popplio
+Type:
+   Water
+   Water/Fairy (34)
+Abilities:
+   Torrent
+Evolution:
+   Brionne (17)
+   Primarina (34)
+Key Moves:
+   Disarming Voice (8)
+   Aqua Jet (14)
+   Ice Beam (TM)
+   Moonblast (44)
+
+Porygon
+Type:
+   Normal
+Abilities:
+   Trace*
+   Download
+   Adaptability (30)
+Evolution:
+   Porygon2 (18)
+   Porygon-Z (30)
+Key Moves:
+   Recover (18)
+   Ice Beam (TM)
+   Discharge (40)
+   Nasty Plot (MR)
+
+Ralts
+Type:
+   Psychic/Fairy
+   Psychic/Fighting (Evo.)
+Abilities:
+   Synchronize
+   Trace
+   Steadfast (Evo.)
+Evolution:
+   Kirlia (20)
+   Gardevoir (30)
+   Gallade (Dawn St.)
+Key Moves:
+   Draining Kiss (23)
+   Calm Mind (26)
+   Psychic (30)
+
+Riolu
+Type:
+   Fighting
+   Fighting/Steel (30)
+Abilities:
+   Steadfast
+   Inner Focus
+Evolution:
+   Lucario (30)
+Key Moves:
+   Force Palm (15)
+   Aura Sphere (30)
+   Calm Mind (42)
+
+Rockruff
+Type:
+   Rock
+Abilities:
+   Keen Eye
+   Steadfast
+Evolution:
+   Lycanroc (25)
+Key Moves:
+   Rock Tomb (TM)
+   Accelerock (25)
+   Stealth Rock (29)
+   
+Rolycoly
+Type:
+   Rock
+   Rock/Fire (18)
+Abilities:
+   Heatproof
+   Steam Engine
+Evolution:
+   Carkol (18)
+   Coalossal (34)
+Key Moves:
+   Rock Tomb (TM)
+   Ancient Power (20)
+   Incinerate (27)
+
+Rookidee
+Type:
+   Flying
+   Flying/Steel (38)
+Abilities:
+   Keen Eye
+   Unnerve
+Evolution:
+   Corvisquire (18)
+   Corviknight (38)
+Key Moves:
+   Pluck (16)
+   Steel Wing (TM)
+
+Rotom
+Type:
+   Electric/Fire
+Abilities:
+   Levitate
+Key Moves:
+   Shock Wave (22)
+   Ominous Wind (29)
+   Thunderbolt (TM)
+   Overheat (TM)
+
+Rowlet
+Type:
+   Grass/Flying
+   Grass/Ghost (34)
+   Grass/Fighting (Evo.)
+Abilities:
+   Overgrow
+Evolution:
+   Dartrix (17)
+   Decidueye (34)
+   Decidueye (K. Rock)
+Key Moves:
+   Aura Sphere (30*)
+   Giga Drain (TM)
+   Spirit Shackle (34*)
+   Nasty Plot (46*)
+   U-turn (MR)
+
+Sableye
+Type:
+   Dark/Ghost
+Abilities:
+   Keen Eye
+   Stall
+Key Moves:
+   Detect (14)
+   Shadow Sneak (16)
+   Faint Attack (19)
+   Knock Off (26)
+   Shadow Ball (39)
+
+Salandit
+Type:
+   Poison/Fire
+Abilities:
+   Corrosion
+   Oblivious
+Evolution:
+   Salazzle (33)
+Key Moves:
+   Thief (1)
+   Dragon Rage (13)
+   Flame Burst (24)
+   Toxic (29)
+   Overheat (TM)
+   Sludge Bomb (TM)
+   Encore (MR)
+
+Sandile
+Type:
+   Ground/Dark
+Abilities:
+   Intimidate
+   Moxie(!)
+Evolution:
+   Krokorok (29)
+   Krookodile (40)
+Key Moves:
+   Sand Tomb (13)
+   Crunch (28)
+   Bulk Up (TM)
+   Earthquake (54)
+   
+Scyther
+Type:
+   Bug/Flying
+   Bug/Steel (Evo.)
+   Bug/Rock (Evo.)
+Abilities:
+   Technician(!)
+   Swarm
+Evolution:
+   Kleavor (K. Rock)
+   Scizor (Metal Coat)
+Key Moves:
+   Steel Wing (TM)
+   X-Scizor (40/41)
+   Swords Dance (44*)
+
+Seedot
+Type:
+   Grass
+   Grass/Dark (14)
+Abilities:
+   Chlorophyll
+   Early Bird
+Evolution:
+   Nuzleaf (14)
+   Shiftry (Leaf St.)
+Key Moves:
+   Fake Out (12)
+   Leaf Blade (28)
+   Hurricane (32)
+
+Shellder
+Type:
+   Water
+   Water/Ice (Evo.)
+Abilities:
+   Shell Armor
+   Skill Link(!)
+Evolution:
+   Cloyster (Water St.)
+Key Moves:
+   Icicle Spear (13)
+   Protect (16)
+   Surf (HM)
+   Ice Beam (TM)
+
+Shinx
+Type:
+   Electric
+Abilities:
+   Rivalry
+   Intimidate
+Evolution:
+   Luxio (15)
+   Luxray (30)
+Key Moves:
+   Spark (13)
+   Volt Switch (33)
+
+Shroomish
+Type:
+   Grass
+   Grass/Fighting (23)
+Abilities:
+   Effect Spore
+   Poison Heal(!)
+Evolution:
+   Breloom (23)
+Key Moves:
+   Mach Punch (23)
+   Force Palm (28)
+   Sky Uppercut (39)
+   Seed Bomb (44)
+
+Skrelp
+Type:
+   Poison/Water
+   Poison/Dragon (Evo.)
+Abilities
+   Poison Point
+   Poison Touch
+Evolution
+   Dragalge (D. Scale)
+Key Moves:
+   Bubble (12)
+   Water Pulse (25)
+   Sludge Bomb (TM)
+   Thunderbolt (TM)
+
+Slowpoke
+Type:
+   Poison/Psychic
+Abilities:
+   Various
+Evolution:
+   Slowbro (37)
+   Slowking (K. Rock)
+Key Moves:
+   Confusion (12)
+   Zen Headbutt (24)   
+   Eerie Spell (29*)
+   Slack Off (33)
+   Sludge Bomb (TM)
+   Calm Mind (TM)
+
+Snorunt
+Type:
+   Ice
+   Ice/Ghost (Evo.)
+Abilities:
+   Ice Body
+   Inner Focus
+Evolution:
+   Glalie (42)
+   Froslass (Dawn St.)
+Key Moves:
+   Ice Shard (10)
+   Icy Wind (14)   
+   Ice Beam (TM)
+   Freeze Dry (42*)
+   Shadow Ball (42*)
+
+Solosis
+Type:
+   Psychic
+Abilities:
+   Overcoat
+   Magic Guard
+Evolution:
+   Duosion (32)
+   Reuniclus (41)
+Key Moves:
+   Charm (19)
+   Recover (24)
+   Psychic (39)
+   Calm Mind (TM)
+
+Spheal
+Type:
+   Ice/Water
+Abilities:
+   Thick Fat
+   Ice Body
+Evolution:
+   Sealeo (32)
+   Walrein (44)
+Key Moves:
+   Water Gun (1)
+   Encore (9)
+   Surf (HM)
+   Ice Beam (TM)
+
+Spoink
+Type:
+   Psychic
+Abilities:
+   Thick Fat
+   Own Tempo
+Evolution:
+   Grumpig (32)
+Key Moves:
+   Psybeam (14)
+   Zen Headbutt (26)
+   Shock Wave (TM)
+
+Stantler
+Type:
+   Normal
+   Normal/Psychic (27)
+Abilities:
+   Intimidate
+   Sap Sipper
+Evolution:
+   Wyrdeer (27*)
+Key Moves:
+   Stomp (13)
+   Calm Mind (27)
+   Extrasensory (31)
+
+Surskit
+Type:
+   Bug/Water
+   Bug/Flying (22)
+Abilities:
+   Swift Swim*
+   Intimidate (Evo.)
+Evolution:
+   Masquerain (22)
+Key Moves:
+   Ice Beam (TM)
+   Bug Buzz (42)
+   Quiver Dance (52)
+
+Swinub
+Type:
+   Ice/Ground
+Abilities:
+   Oblivious
+   Snow Cloak
+Evolution:
+   Piloswine (33)
+   Mamoswine (MR)
+Key Moves:
+   Mud Bomb (18)
+   Ice Beam (TM)
+   Earthquake (46)
+   Ancient Power (MR)
+
+Teddiursa
+Type:
+   Normal
+   Normal/Ground (50*)
+Abilities:
+   Pickup
+   Quick Feet
+   Guts (Evo.)
+   Bulletproof (Evo.)
+Evolution:
+   Ursaring (30)
+   Ursaluna (50*)
+Key Moves:
+   Bulk Up (TM)
+   Play Rough (29)
+   Earth Power (31*)
+   High Horsepower (48*)
+
+Togepi
+Type:
+   Fairy
+   Fairy/Flying (20)
+Abilities:
+   Hustle
+   Serene Grace
+Evolution:
+   Togetic (20)
+   Togekiss (Shiny St.)
+Key Moves:
+   Yawn (13)
+   Encore (17)
+   Wish (29)
+   Ancient Power (33*)
+   Shock Wave (TM*)
+   Aura Sphere (MR)
+
+Totodile
+Type:
+   Water
+Abilities:
+   Torrent
+Evolution:
+   Croconaw (18)
+   Feraligatr (30)
+Key Moves:
+   Water Gun (6)
+   Ice Fang (20)
+   Waterfall (HM)
+
+Trapinch
+Type:
+   Ground
+   Ground/Dragon (35)
+Abilities:
+   Arena Trap
+   Sheer Force
+Evolution:
+   Vibrava (35)
+   Flygon (45)
+Key Moves:
+   Bulldoze (8)
+   Dig (22)
+   Earthquake (33)
+   Dragon Claw (45)
+
+Treecko
+Type:
+   Grass
+Abilities:
+   Overgrow
+Evolution:
+   Grovyle (16)
+   Sceptile (36)
+Key Moves:
+   Leaf Blade (23)
+   Dual Chop (36)
+   Detect (39)
+   X-Scissor (45)
+   Leaf Storm (MR)
+
+Trubbish
+Type:
+   Poison
+Abilities:
+   Sticky Hold
+   Aftermath
+Evolution:
+   Garbodor (36)
+Key Moves:
+   Sludge (18)
+   Sludge Bomb (29)
+   Thunderbolt (TM)
+
+Tyrogue
+Type:
+   Fighting
+Abilities:
+   Various
+Evolution:
+   Hitmonlee (20*)
+   Hitmonchan (20**)
+   Hitmontop (20***)
+Key Moves:
+   High Jump Kick (29*)
+   Vacuum Wave (26**)
+   Rolling Kick (20***)
+
+Venipede
+Type:
+   Bug/Poison
+Abilities:
+   Poison Point
+   Swarm
+Evolution:
+   Whirlipede (22)
+   Scolipede (30)
+Key Moves:
+   Protect (15)
+   Bug Bite (23)
+   Venoshock (28)
+
+Voltorb
+Type:
+   Electric/Grass
+Abilities:
+   Static
+   Soundproof
+Evolution:
+   Leaf Stone
+Key Moves:
+   Electro Ball (22)
+   Giga Drain (TM)
+   Discharge (34)
+
+Vulpix
+Type:
+   Ice/Fairy
+Abilities:
+   Snow Cloak
+Evolution:
+   Ninetales (Ice St.)
+Key Moves:
+   Ice Shard (10)
+   Icy Wind (15)
+   Dazzling Gleam (32)
+   Ice Beam (36/TM)
+   Nasty Plot (MR)
+
+Weedle
+Type:
+   Bug/Poison
+Abilities:
+   Shield Dust*
+   Swarm (Evo.)
+Evolution:
+   Kakuna (7)
+   Beedrill (10)
+Key Moves:
+   Bug Bite (9)
+   Twineedle (17)
+
+Wingull
+Type:
+   Water/Flying
+Abilities:
+   Keen Eye
+   Hydration*
+   Drizzle(!) (25)
+Evolution:
+   Pelipper(!) (25)
+Key Moves:
+   Water Pulse (15)
+   Air Cutter (22)
+   Shock Wave (TM)
+   Protect (25)
+   Surf (HM)
+   Ice Beam (TM)
+
+Wishiwashi
+Type:
+   Water
+Abilities:
+   Schooling
+Key Moves:
+   Brine (14)
+   Aqua Ring (17)
+   Dive (30)
+   Surf (HM)
+   Ice Beam (TM)
+
+Wooper
+Type:
+   Water/Ground
+Abilities:
+   Damp
+   Water Absorb(!)
+Evolution:
+   Quagsire (20)
+Key Moves:
+   Mud Shot (9)
+   Mud Bomb (19)
+   Yawn (29)
+   Surf (HM)
+   Earthquake (36)
+
+Zigzagoon
+Type:
+   Normal/Dark
+Abilities:
+   Pickup
+   Gluttony
+   Reckless (Evo.)
+   Guts(!) (Evo.)
+Evolution:
+   Linoone (20)
+   Obstagoon (35)
+Key Moves:
+   Snarl (9)
+   Night Slash (20)
+   Facade (TM)
+
+Zubat
+Type:
+   Poison/Flying
+Abilities:
+   Inner Focus
+   Infiltrator
+Evolution:
+   Golbat (22)
+   Crobat (40)
+Key Moves:
+   Wing Attack (13)
+   Air Cutter (19)
+   Poison Fang (27)
